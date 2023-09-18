@@ -1,3 +1,4 @@
 # lab1
 repository for lab1 <br/>
-author: xinyu yang
+author: xinyu yang <br/>
+BU MET CS
